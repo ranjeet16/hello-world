@@ -1,2 +1,4 @@
 # hello-world
-my first reposotory
+
+Hi,
+  eveyone i love to be here it's a great plateform.
